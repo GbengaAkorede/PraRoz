@@ -1,13 +1,13 @@
-[debug] [2023-09-20T12:20:04.674Z] ----------------------------------------------------------------------
-[debug] [2023-09-20T12:20:04.681Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
-[debug] [2023-09-20T12:20:04.683Z] CLI Version:   12.5.4
-[debug] [2023-09-20T12:20:04.684Z] Platform:      win32
-[debug] [2023-09-20T12:20:04.684Z] Node Version:  v18.16.1
-[debug] [2023-09-20T12:20:04.688Z] Time:          Wed Sep 20 2023 13:20:04 GMT+0100 (West Africa Standard Time)
-[debug] [2023-09-20T12:20:04.688Z] ----------------------------------------------------------------------
+[debug] [2023-09-20T13:10:34.173Z] ----------------------------------------------------------------------
+[debug] [2023-09-20T13:10:34.178Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-09-20T13:10:34.179Z] CLI Version:   12.5.4
+[debug] [2023-09-20T13:10:34.181Z] Platform:      win32
+[debug] [2023-09-20T13:10:34.181Z] Node Version:  v18.16.1
+[debug] [2023-09-20T13:10:34.184Z] Time:          Wed Sep 20 2023 14:10:34 GMT+0100 (West Africa Standard Time)
+[debug] [2023-09-20T13:10:34.184Z] ----------------------------------------------------------------------
 [debug] 
-[debug] [2023-09-20T12:20:04.717Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
-[debug] [2023-09-20T12:20:04.720Z] > authorizing via signed-in user (mayowagbenga572@gmail.com)
+[debug] [2023-09-20T13:10:34.446Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-09-20T13:10:34.448Z] > authorizing via signed-in user (mayowagbenga572@gmail.com)
 [info] 
      ######## #### ########  ######## ########     ###     ######  ########
      ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
@@ -18,4 +18,8 @@
 You're about to initialize a Firebase project in this directory:
 
   C:\Users\DELL\OneDrive\Documents\Website\PraRoz
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
 
